@@ -67,10 +67,5 @@ typings/
 # vscode settings folder
 .vscode/
 
-# temp files 
-~$*
-
-.idea
-
 # constants.js
-frontend/src/constants.js
+backend/constants.js
