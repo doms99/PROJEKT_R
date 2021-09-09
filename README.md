@@ -1,4 +1,4 @@
-#eLijekovi
+# eLijekovi
 
 This was a group project as a part of preparations for bachelor's degree project.
 It's a web store for medications.
